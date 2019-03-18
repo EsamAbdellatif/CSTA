@@ -23,7 +23,7 @@ Windows:
 edit autoexec.bat
 ```
 
-## Usage example
+## Usage example 2
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
