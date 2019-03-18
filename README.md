@@ -9,7 +9,7 @@ One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
-## Installation 232
+## Installation 23232
 
 OS X & Linux:
 
