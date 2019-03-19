@@ -1132,7 +1132,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-top: 5px;
 }
 .testimonial_area .testimonial_carosel .item p {
-  font: 400 italic 14px/26px "Roboto", sans-serif;
+  font: 400 italic 25px/26px "Roboto", sans-serif;
   color: #006ebf;
   max-width: 945px;
   margin: 0 auto;
