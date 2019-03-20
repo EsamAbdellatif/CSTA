@@ -105,6 +105,7 @@ This files contents are outlined below.
   padding-top: 55px;
 }
 
+
 /* Subtittle */
 .subtittle h2 {
   font: 700 36px "Roboto", sans-serif;
@@ -966,6 +967,12 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .grid-sizer-2 {
   width: 41.66666667%;
 }
+
+.add-padding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 
 /* our_services_tow */
 /*--------------------------------------------------*/
