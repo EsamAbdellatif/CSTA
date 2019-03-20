@@ -78,3 +78,10 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [wiki]: https://github.com/yourname/yourproject/
 ## Senor Chapin's Requests
 *Real Logo
+*Change Background photography
+*Remove Contact tab
+*add links for the social medias
+*Proffesianla Development card
+*partners card
+*Why join card
+*communication card
