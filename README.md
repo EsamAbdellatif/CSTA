@@ -85,3 +85,8 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 *partners card
 *Why join card
 *communication card
+3/22
+*take off tempelate jumbotron text
+*change join CSTA botton text to white
+*number of memeber partneers and chapter
+*coming soon blog section
