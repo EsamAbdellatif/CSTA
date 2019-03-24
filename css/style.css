@@ -449,8 +449,9 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   left: 0;
 }
 .slider_area .slider_inner .camera_caption div h5 {
-  color: #006ebf;
-  font: 400 24px "Roboto", sans-serif;
+  color: #1b87d6;
+  font: 400 28px "Roboto", sans-serif;
+  font-weight: bold;
 }
 .slider_area .slider_inner .camera_caption div h3 {
   color: #fff;
@@ -458,9 +459,9 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-top: 27px;
 }
 .slider_area .slider_inner .camera_caption div p {
-  padding-top: 60px;
+  padding-top: 50px;
   color: #fff;
-  font: 400 14px/26px "Roboto", sans-serif;
+  font: 400 18px/26px "Roboto", sans-serif;
   max-width: 750px;
   margin: 0 auto;
   padding-bottom: 90px;
@@ -691,6 +692,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .what_we_area .construction_iner .construction .cns-img {
   z-index: 2;
+  padding-bottom: 20px;
 }
 .what_we_area .construction_iner .construction .cns-img img {
   max-width: 100%;
@@ -1128,14 +1130,16 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-top: 40px;
 }
 .testimonial_area .testimonial_carosel .item .media .media-body h4 {
-  font: 700 14px "Roboto", sans-serif;
+  font: 700 26px "Roboto", sans-serif;
   text-transform: uppercase;
   color: #222222;
+  text-align: center;
 }
 .testimonial_area .testimonial_carosel .item .media .media-body h6 {
-  font: 400 italic 14px "Roboto", sans-serif;
+  font: 400 italic 18px "Roboto", sans-serif;
   color: #555555;
   padding-top: 5px;
+  text-align: center;
 }
 .testimonial_area .testimonial_carosel .item p {
   font: 400 italic 25px/26px "Roboto", sans-serif;
@@ -2135,6 +2139,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .footer_area .footer_row .footer_about .quick_link {
   padding: 0;
   margin: 0;
+  padding-left: 20px;
 }
 .footer_area .footer_row .footer_about .quick_link li {
   list-style: none;
