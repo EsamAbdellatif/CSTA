@@ -82,12 +82,12 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 *Change Background photography
 *Remove Contact tab
 *add links for the social medias
-*Proffesianla Development card
+*Professional Development card
 *partners card
 *Why join card
 *communication card
 3/22
-*take off tempelate jumbotron text
-*change join CSTA botton text to white
-*number of memeber partneers and chapter
+*take off template jumbotron text
+*change join CSTA bottom text to white
+*number of member partners and chapter
 *coming soon blog section
