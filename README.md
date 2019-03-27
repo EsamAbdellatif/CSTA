@@ -94,3 +94,7 @@ Time necessary to complete: 4-5 months; after CSTA is "up and running"
 * change join CSTA bottom text to white
 * number of member partners and chapter
 * coming soon blog section
+3/26
+* Join CSTA link white
+* Calendar instead of partners
+* Curricular Links for teachers
